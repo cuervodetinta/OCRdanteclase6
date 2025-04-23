@@ -8,7 +8,7 @@ import os
 
 st.set_page_config(page_title="OCR con Audio", layout="centered")
 
-# Estilo personalizado
+
 st.markdown(
     """
     <style>
